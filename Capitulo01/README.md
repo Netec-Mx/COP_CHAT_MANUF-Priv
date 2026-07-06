@@ -1,4 +1,3 @@
----MARKDOWN---
 # Práctica 1 — Generación automatizada de gráficas y Paretos de costos de "no calidad" para anticipar comportamientos producto-proceso
 
 ## 1. Metadatos del Laboratorio
