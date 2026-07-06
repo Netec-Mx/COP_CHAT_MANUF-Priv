@@ -14,7 +14,7 @@
 
 ## 2. Descripción Corta
 
-Este laboratorio final de $90$ minutos capacita a los líderes industriales en el uso de Microsoft Copilot para migrar de una cultura de diagnóstico reactivo a una de anticipación operativa y mitigación del riesgo futuro. Los estudiantes aprenderán a estructurar lógicas de **Alertas Tempranas (Early Warning Systems)** en **Microsoft Excel** basadas en umbrales predictivos de degradación. Posteriormente, utilizarán Copilot en **Microsoft Word** para redactar resúmenes ejecutivos de riesgos críticos para la alta dirección. Como elemento innovador, interactuarán con el motor de generación de imágenes de Copilot para crear infografías y diagramas conceptuales de los flujos de contención ante alertas, asegurando una comunicación clara, visual y unificada en toda la organización.
+Este laboratorio final de $60$ minutos capacita a los líderes industriales en el uso de Microsoft Copilot para migrar de una cultura de diagnóstico reactivo a una de anticipación operativa y mitigación del riesgo futuro. Los estudiantes aprenderán a estructurar lógicas de **Alertas Tempranas (Early Warning Systems)** en **Microsoft Excel** basadas en umbrales predictivos de degradación. Posteriormente, utilizarán Copilot en **Microsoft Word** para redactar resúmenes ejecutivos de riesgos críticos para la alta dirección. Como elemento innovador, interactuarán con el motor de generación de imágenes de Copilot para crear infografías y diagramas conceptuales de los flujos de contención ante alertas, asegurando una comunicación clara, visual y unificada en toda la organización.
 
 ---
 
@@ -161,7 +161,7 @@ Debes interactuar de forma autónoma con Copilot utilizando ingeniería de promp
 
 ## 7. Resultado Esperado
 
-Al finalizar los $90$ minutos de la sesión práctica, el estudiante entregará un portafolio digital interdisciplinario listo para implementar en planta:
+Al finalizar los $60$ minutos de la sesión práctica, el estudiante entregará un portafolio digital interdisciplinario listo para implementar en planta:
 
 1. **Archivo `Gestion_Anticipada_Alertas.xlsx` (Excel):**
    * **Hoja 1 (`1. Configuración_Alertas`):** Matriz técnica con la lógica de variables, rangos operativos, umbrales de alerta y acciones de contención por activo.
