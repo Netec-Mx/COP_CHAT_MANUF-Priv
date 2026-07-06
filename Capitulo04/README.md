@@ -4,7 +4,7 @@
 
 | Atributo | Detalle |
 | :--- | :--- |
-| **Duración** | $90$ minutos (Densidad Estratégica y Prospectiva) |
+| **Duración** | $60$ minutos (Densidad Estratégica y Prospectiva) |
 | **Complejidad** | Intermedia |
 | **Audiencia** | Superintendentes de Planta, Jefes de Operaciones, Directores de Confiabilidad, Líderes de Seguridad Operacional y Analistas de Riesgos |
 | **Tecnologías** | Microsoft Copilot Chat (M365), Copilot Image Generator (DALL-E), Microsoft Excel y Microsoft Word |
