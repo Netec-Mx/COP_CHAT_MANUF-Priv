@@ -6,7 +6,7 @@
 | Atributo | Detalle |
 | :--- | :--- |
 | **Duración** | 60 minutos (Guiado + Reto de Aplicación Autónoma) |
-| **Complejidad** | Avanzada |
+| **Complejidad** | Intermedia |
 | **Audiencia** | Superintendentes y Jefes de Producción, Analistas de Calidad y Procesos en Manufactura Cerámica |
 | **Tecnologías** | Microsoft Copilot Chat (M365) y Microsoft Excel |
 | **Enfoque** | Generación automatizada de tablas de datos, análisis de Pareto de costos de no calidad (scrap, segundas, roturas) y detección anticipativa de desviaciones en variables críticas del proceso. |
