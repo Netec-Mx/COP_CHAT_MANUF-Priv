@@ -1,4 +1,4 @@
-# Uso de Copilot para visualizar el impacto conjunto en la eficiencia y confiabilidad, eliminando los silos de información operativa.
+# Práctica 3 — Uso de Copilot para visualizar el impacto conjunto en la eficiencia y confiabilidad, eliminando los silos de información operativa.
 
 ## 1. Metadatos del Laboratorio
 
