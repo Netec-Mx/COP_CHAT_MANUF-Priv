@@ -1,4 +1,4 @@
-# Transformación del enfoque correctivo al preventivo/predictivo. Identificación de patrones de fallas, análisis del comportamiento de refacciones y evaluación de riesgos de indisponibilidad por línea de producción.
+# Práctica 2 — Transformación del enfoque correctivo al preventivo/predictivo. Identificación de patrones de fallas, análisis del comportamiento de refacciones y evaluación de riesgos de indisponibilidad por línea de producción.
 
 ## 1. Metadatos del Laboratorio
 
