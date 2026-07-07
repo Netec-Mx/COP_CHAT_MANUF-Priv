@@ -1,4 +1,4 @@
-# Configuración de alertas tempranas y resúmenes ejecutivos. Cómo pasar de "explicar el pasado" a "gestionar el riesgo futuro". Priorización de acciones preventivas.
+# Práctica 4 — Configuración de alertas tempranas y resúmenes ejecutivos. Cómo pasar de "explicar el pasado" a "gestionar el riesgo futuro". Priorización de acciones preventivas.
 
 ## 1. Metadatos del Laboratorio
 
