@@ -1,6 +1,5 @@
 <img src="images/neteclogo (2).png" alt="logo" width="300"/>
 
-
 # COPILOT EN MANUFACTURA
 
 ## Plataforma de laboratorios
@@ -60,13 +59,12 @@ Este seminario intensivo está diseñado para transformar la labor de los líder
   - Descripción: Actividad práctica orientada a crear planes de capacitación y estrategias de motivación con Copilot, considerando la gestión del cambio tecnológico, la supervisión en planta y la comunicación según el perfil operativo.
   - Duración estimada: 90 min
 
--------------------------------------------------------------------------------------------------------------------------------------
+
+  ---
 
 ## 📬 **Contacto y más información**
 
-
 Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
-
 
 ---
 
