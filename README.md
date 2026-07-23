@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # COPILOT EN MANUFACTURA
 
 Este seminario intensivo está diseñado para transformar la labor de los líderes de planta en la industria cerámica, migrando de un análisis de datos reactivo (basado en hojas de cálculo tradicionales) hacia un modelo de gestión anticipativo e integrado. Los participantes aprenderán a utilizar Microsoft Copilot como un analista avanzado que procesa datos diarios de calidad, mantenimiento y producción para detectar tendencias y prever impactos económicos antes de que se materialicen en fallas mayores.
@@ -56,8 +58,13 @@ Este seminario intensivo está diseñado para transformar la labor de los líder
   - Descripción: Actividad práctica orientada a crear planes de capacitación y estrategias de motivación con Copilot, considerando la gestión del cambio tecnológico, la supervisión en planta y la comunicación según el perfil operativo.
   - Duración estimada: 90 min
 
-## Flujo de colaboración
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+  ---
+
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
